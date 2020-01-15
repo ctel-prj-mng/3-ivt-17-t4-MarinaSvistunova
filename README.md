@@ -6,6 +6,7 @@
 4.1. Изучив конкретную систему управления проектами, использовав одну из стратегий ветвления (branching strategies) на основе системы версий Git реализовать добавление функции (рефакторинга существующего кода) в существующем программном проекте, предварительно создать запрос на добавление функционала (issue).
 
   ##### ThreeFlows
+  ##### https://github.com/MarinaSvistunova/test_branching_strategies
     
     ThreeFlows
  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/1branches.png" width="70%">
@@ -17,10 +18,10 @@
  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/3issue.png" width="70%">
  
     Редактирование файла в ветке master для решения issue
- <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/4changed_function.png" width="70%">
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/4changed_function.png" width="30%">
  
     Решение issue
- <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/5close_issue.png" width="70%">
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/5close_issue.png" width="50%">
  
     Создание релиз-кандидата в ветке candidate
  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/6merge_from_master_to_candidate.png" width="70%">
