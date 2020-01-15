@@ -3,7 +3,37 @@
 
 ## Тема 4 ИСР https://moodle.herzen.spb.ru/mod/page/view.php?id=123171
 
-4.1. Изучив конкретную систему управления проектами, использовав одну из стратегий ветвления (branching strategies) на основе системы версий Git реализовать добавление функции (рефакторинга существующего кода) в существующем программном проекте, предварительно создать запрос на добавление функционала (issue). 
+4.1. Изучив конкретную систему управления проектами, использовав одну из стратегий ветвления (branching strategies) на основе системы версий Git реализовать добавление функции (рефакторинга существующего кода) в существующем программном проекте, предварительно создать запрос на добавление функционала (issue).
+
+  ##### ThreeFlows
+    
+    ThreeFlows
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/1branches.png" width="70%">
+ 
+    Создание файла в ветке master
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/2master.png" width="70%">
+ 
+    Создание issue
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/3issue.png" width="70%">
+ 
+    Редактирование файла в ветке master для решения issue
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/4changed_function.png" width="70%">
+ 
+    Решение issue
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/5close_issue.png" width="70%">
+ 
+    Создание релиз-кандидата в ветке candidate
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/6merge_from_master_to_candidate.png" width="70%">
+ 
+    Создание релиза в ветке release
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/7merge_from_candidate_to_release.png" width="70%">
+ 
+    Ветка candidate
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/8branche_candidate.png" width="70%">
+ 
+    Ветка release
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t4-MarinaSvistunova/blob/master/img/9branche_release.png" width="70%">
+ 
 
 4.2. Реализация конкретного проекта с нуля (проект согласуется с преподавателем): написание фрагмента технического задания, создание макетов продукта (мобильной, настольной версий), реализация макетов с использованием одного из клиентских фреймворков, создание схемы функционирования продукта, вариантов его использования конечным пользователем, создание плана юзабилити-тестирования продукта, выбор методологии и модели разработки, организация учета и управления задачами и временем (создание диаграммы Гантта). Оформление отчета по результатам работы и презентации с основными результатами. Публичное выступление.
 
